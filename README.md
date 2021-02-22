@@ -1,1 +1,1 @@
-# AI-Lecture-notes
+This repository contains lecture notes for my AI class.
