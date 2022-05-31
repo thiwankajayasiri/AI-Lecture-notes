@@ -1,1 +1,1 @@
-This repository contains lecture notes for my AI class. Youtube videos: (1) - Introduction.pdf, (2) - Regression.pdf slide 1-12 (Build a MLP regression model) https://youtu.be/44nB3xoa1m4 ,  (2) - Regression.pdf slide 13-42 (ReLU, Early stop, Regularization) https://youtu.be/13gJkOJUlg8,   (2) - Regression.pdf slide 43-end  (drop out) https://youtu.be/uNnHr1ceYV4
+This repository contains lecture notes for my AI class.
